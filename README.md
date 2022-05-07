@@ -12,3 +12,6 @@ Commandes :
 - ls -la -F spot.sh
 - chmod a+x spot.sh
 - ./spot.sh
+
+## Theme gnome
+meilleur theme gnome : Qogir
